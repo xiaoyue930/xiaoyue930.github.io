@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "*.⊹ ˚₊一万回の冬の夜の雪をタイムスリップする⟡ ₊ ॱֺּ*"
-author_profile: true
+title: "小月橱窗ॱֺּ*"
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
@@ -9,6 +9,7 @@ redirect_from:
 
 
 
+# *.⊹ ˚₊一万回の冬の夜の雪をタイムスリップする⟡ ₊ ॱֺּ*
 
 ### 穿越一万次冬夜的雪
 
